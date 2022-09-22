@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2022-09-22T05:44:02.358Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="N0l4kRYIqO8RCLxT2rn9" version="18.0.0" type="github"><diagram id="F-07AsuqGngknCG6S7us" name="第 1 页">1ZjLjpswFIaf5iwjccdeYkLaUdXVLKquKit4Ai3BESEl06fvMRgIl9HMSFPF3SDz24D5zs02uPHx+qnip+yrTEUBjpVewd2C4xDLxasSnjvBC8NOOFR52kn2KDzmf4QWLa1e8lScJwNrKYs6P03FvSxLsa8nGq8q2UyHPcli+tUTP4iF8LjnxVL9lqd1pn/Lt0b9s8gPWf9l29I9R94P1sI546lsbiQ3ATeupKy71vEai0Kx67l0z+1e6B0mVomyfssDzcYvtwn/YW3ol+/NQ+n/fOCbfnK/eXHRf6xnWz/3CCp5KVOh3mKBy5osr8Xjie9Vb4M2Ry2rjwXe2djUrxNVLa4vTtQefh/dRsijqKtnHHIdGHaPaJfx+0k2owHsQGvZDXzH0yLXRj8M7x65YEOjeQemYEkpCSGygHptgwILFtxeIcXPp85hn/Krovsh6JwZOneJzlsh98/AhSvgPGAEIgRHgCZAtkaACw0DR1Y9jiTALEgokBCorQgSByK79UEfImIEyrkP0jujpCsoA6BbIK4CRxmQSKFEjuiMSvGA7iDxgbpAbCOYzt3z3kztZd3YPcSxgkZ2LU+kFwNrGxjr1Ij06Jjmmra94pu+8j5FbgjzAAgFStowT5SfGsByHuaBf2+WzhtZol+qOPeVmxrCMjSNpbvC8qbqdHVbVXJEGI6pUikMIlcNxixKLBPozqP+/nS9FbpDKR9KUxv1bDey7JJrZwFVrGIT6M7zQGjfm66/mgeQX1eNCFHrz/+Fbmga3bWtkA+s3QEhOeZBtNW5oltNYUIgXt/ljHkXx+CVJa0F2sJmAO95rrg7b2dthdDuoGh0w5K0mZjpBMyWeypEUk/xnetK/hKxLGSFSilLHMme8qKYSbzIDyXe7hGhQJ0pwPmeF5HuOOZpqj6zejQwPTz4iIgIphbyVtZwa4cD7vsthLfj8Uzbd3PG5SZ/AQ==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-22T05:45:37.356Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="d0zRl8wU54M9wlKSew1y" version="18.0.0" type="github">
+  <diagram id="F-07AsuqGngknCG6S7us" name="第 1 页">
+    <mxGraphModel dx="803" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="w-5nDEa_0-9KYwIn5jIa-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="520" width="160" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="w-5nDEa_0-9KYwIn5jIa-6" value="研究" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="120" y="530" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w-5nDEa_0-9KYwIn5jIa-7" value="两融" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="170" y="530" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w-5nDEa_0-9KYwIn5jIa-8" value="现金股票" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="120" y="590" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w-5nDEa_0-9KYwIn5jIa-9" value="权益衍生品" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="170" y="590" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w-5nDEa_0-9KYwIn5jIa-10" value="FICC及场外" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="220" y="590" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w-5nDEa_0-9KYwIn5jIa-11" value="基金托管" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="120" y="650" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w-5nDEa_0-9KYwIn5jIa-12" value="基金服务" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="170" y="650" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w-5nDEa_0-9KYwIn5jIa-13" value="金融产品代销" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="220" y="650" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w-5nDEa_0-9KYwIn5jIa-14" value="股权承销发行" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="120" y="710" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w-5nDEa_0-9KYwIn5jIa-15" value="债券承销发行" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="170" y="710" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w-5nDEa_0-9KYwIn5jIa-16" value="并购重组财务顾问" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="220" y="710" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gdBLPPlD3JlrtYlogpjC-1" value="业务身份" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="490" width="160" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
