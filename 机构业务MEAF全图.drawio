@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-09-22T07:19:22.740Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="2LIGB1LyFqgeY6JO9CKm" version="18.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-22T07:33:47.867Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="hf2iB81ZpFsH-CHwbnML" version="18.0.0" type="github">
   <diagram id="F-07AsuqGngknCG6S7us" name="第 1 页">
     <mxGraphModel dx="856" dy="476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="gdBLPPlD3JlrtYlogpjC-123" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="100" width="400" height="105" as="geometry" />
+        </mxCell>
         <mxCell id="gdBLPPlD3JlrtYlogpjC-18" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="165" y="430" width="520" height="50" as="geometry" />
         </mxCell>
@@ -255,6 +258,33 @@
         </mxCell>
         <mxCell id="gdBLPPlD3JlrtYlogpjC-114" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=1 1;" edge="1" parent="1" source="gdBLPPlD3JlrtYlogpjC-68" target="gdBLPPlD3JlrtYlogpjC-78">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gdBLPPlD3JlrtYlogpjC-115" value="机构CRM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="115" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gdBLPPlD3JlrtYlogpjC-116" value="投行云" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1127" y="115" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gdBLPPlD3JlrtYlogpjC-117" value="权益交易平台MATIC" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="115" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gdBLPPlD3JlrtYlogpjC-118" value="FICC交易平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="155" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gdBLPPlD3JlrtYlogpjC-119" value="主经纪商平台INCOS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1190" y="155" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gdBLPPlD3JlrtYlogpjC-124" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="940" y="50" width="450" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gdBLPPlD3JlrtYlogpjC-121" value="行知（机构客户线上综合服务平台）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="gdBLPPlD3JlrtYlogpjC-124">
+          <mxGeometry x="80" width="370" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gdBLPPlD3JlrtYlogpjC-122" value="应用组" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="gdBLPPlD3JlrtYlogpjC-124">
+          <mxGeometry width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gdBLPPlD3JlrtYlogpjC-125" value="应用" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="940" y="100" width="50" height="105" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
