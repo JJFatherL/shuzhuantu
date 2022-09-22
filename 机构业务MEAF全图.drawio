@@ -1,47 +1,71 @@
-<mxfile host="app.diagrams.net" modified="2022-09-22T05:45:37.356Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="d0zRl8wU54M9wlKSew1y" version="18.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-22T05:49:45.099Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="dIx73_mKFKwh4EwdXFQ3" version="18.0.0" type="github">
   <diagram id="F-07AsuqGngknCG6S7us" name="第 1 页">
     <mxGraphModel dx="803" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="w-5nDEa_0-9KYwIn5jIa-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="110" y="520" width="160" height="240" as="geometry" />
+          <mxGeometry x="100" y="120" width="160" height="240" as="geometry" />
         </mxCell>
         <mxCell id="w-5nDEa_0-9KYwIn5jIa-6" value="研究" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="120" y="530" width="40" height="40" as="geometry" />
+          <mxGeometry x="110" y="130" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="w-5nDEa_0-9KYwIn5jIa-7" value="两融" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="170" y="530" width="40" height="40" as="geometry" />
+          <mxGeometry x="160" y="130" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="w-5nDEa_0-9KYwIn5jIa-8" value="现金股票" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="120" y="590" width="40" height="40" as="geometry" />
+          <mxGeometry x="110" y="190" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="w-5nDEa_0-9KYwIn5jIa-9" value="权益衍生品" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="170" y="590" width="40" height="40" as="geometry" />
+          <mxGeometry x="160" y="190" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="w-5nDEa_0-9KYwIn5jIa-10" value="FICC及场外" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="220" y="590" width="40" height="40" as="geometry" />
+          <mxGeometry x="210" y="190" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="w-5nDEa_0-9KYwIn5jIa-11" value="基金托管" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="120" y="650" width="40" height="40" as="geometry" />
+          <mxGeometry x="110" y="250" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="w-5nDEa_0-9KYwIn5jIa-12" value="基金服务" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="170" y="650" width="40" height="40" as="geometry" />
+          <mxGeometry x="160" y="250" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="w-5nDEa_0-9KYwIn5jIa-13" value="金融产品代销" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="220" y="650" width="40" height="40" as="geometry" />
+          <mxGeometry x="210" y="250" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="w-5nDEa_0-9KYwIn5jIa-14" value="股权承销发行" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="120" y="710" width="40" height="40" as="geometry" />
+          <mxGeometry x="110" y="310" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="w-5nDEa_0-9KYwIn5jIa-15" value="债券承销发行" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="170" y="710" width="40" height="40" as="geometry" />
+          <mxGeometry x="160" y="310" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="w-5nDEa_0-9KYwIn5jIa-16" value="并购重组财务顾问" style="whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="220" y="710" width="40" height="40" as="geometry" />
+          <mxGeometry x="210" y="310" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="gdBLPPlD3JlrtYlogpjC-1" value="业务身份" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="110" y="490" width="160" height="30" as="geometry" />
+          <mxGeometry x="100" y="90" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gdBLPPlD3JlrtYlogpjC-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="90" width="290" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="gdBLPPlD3JlrtYlogpjC-3" value="能力建模" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="90" width="290" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gdBLPPlD3JlrtYlogpjC-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="280" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gdBLPPlD3JlrtYlogpjC-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="200" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gdBLPPlD3JlrtYlogpjC-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="120" width="290" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gdBLPPlD3JlrtYlogpjC-7" value="基础能力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="280" width="30" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gdBLPPlD3JlrtYlogpjC-12" value="能力组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="200" width="30" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gdBLPPlD3JlrtYlogpjC-13" value="解决方案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="120" width="30" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
