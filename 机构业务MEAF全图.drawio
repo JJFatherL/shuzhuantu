@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-22T05:49:45.099Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="dIx73_mKFKwh4EwdXFQ3" version="18.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-22T05:49:54.893Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="sr_Cnq7tn0toAkmjwy2i" version="18.0.0" type="github">
   <diagram id="F-07AsuqGngknCG6S7us" name="第 1 页">
     <mxGraphModel dx="803" dy="477" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -44,28 +44,28 @@
           <mxGeometry x="100" y="90" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gdBLPPlD3JlrtYlogpjC-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="90" width="290" height="270" as="geometry" />
+          <mxGeometry x="330" y="90" width="290" height="270" as="geometry" />
         </mxCell>
         <mxCell id="gdBLPPlD3JlrtYlogpjC-3" value="能力建模" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="90" width="290" height="30" as="geometry" />
+          <mxGeometry x="330" y="90" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gdBLPPlD3JlrtYlogpjC-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="280" width="290" height="80" as="geometry" />
+          <mxGeometry x="330" y="280" width="290" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gdBLPPlD3JlrtYlogpjC-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="200" width="290" height="80" as="geometry" />
+          <mxGeometry x="330" y="200" width="290" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gdBLPPlD3JlrtYlogpjC-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="120" width="290" height="80" as="geometry" />
+          <mxGeometry x="330" y="120" width="290" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gdBLPPlD3JlrtYlogpjC-7" value="基础能力" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="280" width="30" height="80" as="geometry" />
+          <mxGeometry x="330" y="280" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gdBLPPlD3JlrtYlogpjC-12" value="能力组件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="200" width="30" height="80" as="geometry" />
+          <mxGeometry x="330" y="200" width="30" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gdBLPPlD3JlrtYlogpjC-13" value="解决方案" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="120" width="30" height="80" as="geometry" />
+          <mxGeometry x="330" y="120" width="30" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
